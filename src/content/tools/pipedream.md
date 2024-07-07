@@ -6,7 +6,15 @@ snippet: >-
   Pipedream is a low code integration platform for developers that allows you to
   connect APIs remarkably fast. Stop writing boilerplate code, struggling with
   authentication and managing infrastructure.
-tags: ["API"]
+tags: ["API", "low-code", "automation"]
 createdAt: 2022-04-08T00:00:00.000Z
 ---
-up to 10K invocations (each time a workflow or event source is triggered by an incoming event)
+3 active workflows
+3 connected accounts
+1 data store
+2,100+ integrated apps
+5,000+ triggers and actions
+Node, Python, Bash & Go
+Support for npm & PyPI
+API request builder
+Unlimited users
