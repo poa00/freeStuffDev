@@ -29,7 +29,9 @@ MIT License
    - Library for a certain framework/language, (e.g. Javascript library). 
    - Link to Documentation or Forum of a certain tool
 
-They're great but there are more suitable place for those tools. 
+They're great, but there are more suitable places for those tools.
+
+3. If the tool only offers a 7-day trial or not having a free offer at all, let's mark it as `isPaid: true` on the `frontMatter`.
 
 ## Contribute
 Want to add new stuff?   
@@ -49,7 +51,7 @@ d. Use next template for content
 title: "Your service name"
 link: "https://link.to.service"
 thumbnail: "https://any.logo.of/service"
-snippet="Service description, which will be shown under service name"
+snippet: "Service description, which will be shown under service name"
 tags: ["Tag1","Tag2","TagN"]
 createdAt: 2021-06-21T18:55:27+03:00
 ---
